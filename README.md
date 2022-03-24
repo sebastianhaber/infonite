@@ -16,18 +16,17 @@
 
 ![Contributors](https://img.shields.io/github/contributors/sebastianhaber/infonite?color=dark-green) ![License](https://img.shields.io/github/license/sebastianhaber/infonite) 
 
-## About The Project
 
-![Screen Shot](src/assets/infonite2022png)
+![Screen Shot](src/assets/infonite2022.png)
 
 
-## Built With
+## Stworzone za pomocą
 
 * [React JS](https://reactjs.org/)
 * [Fortnite API](https://fortnite-api.com/)
 
 
-### Installation
+### Instalacja
 
 1. Uzyskaj klucz API na [https://fortnite-api.com/](https://fortnite-api.com/)
 
@@ -49,7 +48,7 @@ npm install
 REACT_APP_FORTNITE_API_TOKEN=ENTER_YOUR_API_TOKEN
 ```
 
-### Creating A Pull Request
+### Tworzenie Pull Request
 
 1. Fork
 2. Stwórz swój Branch (`git checkout -b feature/AmazingFeature`)
@@ -57,7 +56,7 @@ REACT_APP_FORTNITE_API_TOKEN=ENTER_YOUR_API_TOKEN
 4. Zapisz na Branchu (`git push origin feature/AmazingFeature`)
 5. Stwórz Pull Request
 
-## License
+## Licencja
 
 Distributed under the MIT License. See [LICENSE](https://github.com/sebastianhaber/infonite/blob/main/LICENSE.md) for more information.
 
@@ -68,3 +67,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/sebastianhab
 ## Podziękowania dla
 
 * [Fortnite API](https://fortnite-api.com/)
+* [Vlad Gorshkov](https://unsplash.com/@nuclearvee)
