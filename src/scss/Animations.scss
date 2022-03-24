@@ -1,0 +1,59 @@
+@keyframes animatedBackground {
+    0% {
+        background-position: 0%;
+    }
+    100% {
+        background-position: 100%;
+    }
+}
+@keyframes loading {
+    from{
+        transform: rotate(0);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
+#loader{
+    width: 100%;
+    font-size: 2rem;
+    text-align: center;
+    .iconify{
+        animation: loading 2s linear infinite;
+    }
+}
+@keyframes showIn{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+@keyframes slideUp {
+    from {
+        transform: translate(-50%, 100%);
+    }
+
+    to {
+        transform: translate(-50%, -50%);
+    }
+}
+@keyframes slideDown {
+    from {
+        transform: translate(-50%, -50%);
+    }
+
+    to {
+        transform: translate(-50%, 100%);
+    }
+}
+@keyframes upDown {
+    from {
+        transform: translateY(-10px);
+    }
+
+    to {
+        transform: translateY(10px);
+    }
+}
