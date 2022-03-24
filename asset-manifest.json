@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/infonite/static/css/main.8670c49f.chunk.css",
+    "main.js": "/infonite/static/js/main.d689b41c.chunk.js",
+    "main.js.map": "/infonite/static/js/main.d689b41c.chunk.js.map",
+    "runtime-main.js": "/infonite/static/js/runtime-main.4752abe5.js",
+    "runtime-main.js.map": "/infonite/static/js/runtime-main.4752abe5.js.map",
+    "static/css/2.a2825889.chunk.css": "/infonite/static/css/2.a2825889.chunk.css",
+    "static/js/2.292486d5.chunk.js": "/infonite/static/js/2.292486d5.chunk.js",
+    "static/js/2.292486d5.chunk.js.map": "/infonite/static/js/2.292486d5.chunk.js.map",
+    "index.html": "/infonite/index.html",
+    "static/css/2.a2825889.chunk.css.map": "/infonite/static/css/2.a2825889.chunk.css.map",
+    "static/css/main.8670c49f.chunk.css.map": "/infonite/static/css/main.8670c49f.chunk.css.map",
+    "static/js/2.292486d5.chunk.js.LICENSE.txt": "/infonite/static/js/2.292486d5.chunk.js.LICENSE.txt",
+    "static/media/vlad-gorshkov-G1jbCAqp5sk-unsplash.745b7eee.jpg": "/infonite/static/media/vlad-gorshkov-G1jbCAqp5sk-unsplash.745b7eee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4752abe5.js",
+    "static/css/2.a2825889.chunk.css",
+    "static/js/2.292486d5.chunk.js",
+    "static/css/main.8670c49f.chunk.css",
+    "static/js/main.d689b41c.chunk.js"
+  ]
+}
